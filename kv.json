@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AmrSaber/kv/releases/download/v0.1.0/kv_0.1.0_Windows_x86_64.zip",
+            "bin": [
+                "kv.exe"
+            ],
+            "hash": "2f42de55dfeec1503c4d4c910e696a2bb80ad27dd88d6a5fb4b132d5a4d51b4f"
+        }
+    },
+    "homepage": "https://github.com/AmrSaber/kv",
+    "license": "MIT",
+    "description": "A lightweight, feature-rich command-line key-value store with encryption, TTL, and version control"
+}
