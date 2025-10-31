@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AmrSaber/kv/releases/download/v0.1.0/kv_0.1.0_Windows_x86_64.zip",
+            "url": "https://github.com/AmrSaber/kv/releases/download/v0.1.1/kv_0.1.1_Windows_x86_64.zip",
             "bin": [
                 "kv.exe"
             ],
-            "hash": "2f42de55dfeec1503c4d4c910e696a2bb80ad27dd88d6a5fb4b132d5a4d51b4f"
+            "hash": "5e8b86ecf3efa69cffe40c7c868c74448fef71296e47807317e5b87625929fbb"
         }
     },
     "homepage": "https://github.com/AmrSaber/kv",
